@@ -1,0 +1,8 @@
+APP_NAME = 'TicTacToe of Satan'
+APP_VERSION = '0.1'
+
+H_SIZE = 3
+V_SIZE = 3
+
+BUTTON_WIDTH = 50
+BUTTIN_HEIGHT = 50
