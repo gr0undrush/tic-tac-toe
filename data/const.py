@@ -1,4 +1,4 @@
-APP_NAME = 'TicTacToe of Satan'
+APP_NAME = 'TicTacToe'
 APP_VERSION = '0.1'
 
 SIZE = 3
@@ -6,7 +6,7 @@ SIZE = 3
 BUTTON_WIDTH = 100
 BUTTON_HEIGHT = 100
 
-FONT_SIZE = '48'
+FONT_SIZE = 64
 
 REGULAR = f'QPushButton {{ font-weight: normal; color: black; font-size: {FONT_SIZE}px }}'
 WIN = f'QPushButton {{ font-weight: bold; color: blue; font-size: {FONT_SIZE}px }}'
